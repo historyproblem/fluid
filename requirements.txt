@@ -1,0 +1,8 @@
+numpy
+numba
+torch
+botorch
+gpytorch
+tqdm
+imageio
+vispy
